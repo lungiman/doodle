@@ -2,9 +2,9 @@
 
 I am a graduate student currently pursuing master's degree in computer science at Stony Brook university. 
 
-#Smart Lamp
+# Smart Lamp
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Smart lamp is designed to control the state of the lamp at the study table.
 
 ```markdown
 Syntax highlighted code block
